@@ -5,7 +5,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2026.00000-b31b1b.svg)](https://arxiv.org)
 
 Computational detection of scale-invariant nested spacetimes via lattice quantum gravity simulations.
-
+LIVE: https://nesting.on.websim.com/
 ## Overview
 
 This framework implements rigorous mathematical detection of compressed spacetime regions where nested realities could theoretically exist - "Whoville candidates" where observers would measure their scale as normal while evolving on cosmological timescales.
