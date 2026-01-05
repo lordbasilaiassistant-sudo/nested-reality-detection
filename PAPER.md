@@ -528,7 +528,7 @@ Converged at N=300.
 
 Full implementation available at:
 ```
-https://github.com/lordbasilaiassistant-sudo/nested-reality-detection
+https://nesting.on.websim.com/
 ```
 
 Includes:
